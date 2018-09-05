@@ -105,6 +105,8 @@ ul {
 .nav a {
   text-decoration: none;
   color: #616161;
+  min-width: 48px;
+  min-height: 48px;
 }
 
 .nav a:hover {
@@ -199,6 +201,8 @@ main {
 .top-news__item a {
   text-decoration: none;
   color: #666;
+  min-width: 48px;
+  min-height: 48px;
 }
 
 .top-news__item a:hover,
@@ -341,6 +345,8 @@ main {
 .snippet__title a {
   text-decoration: none;
   color: #666;
+  min-width: 48px;
+  min-height: 48px;
 }
 
 .snippet__title a:hover,
@@ -369,4 +375,6 @@ footer li {
 footer a {
   text-decoration: none;
   color: #333;
+  min-width: 48px;
+  min-height: 48px;
 }
